@@ -11,11 +11,11 @@ using namespace std;
 class Report {
 public:
     void generateReport() {
-        cout << "Generating report\n";
+        cout << "Generating report content...\n";
     }
 
     void saveToFile() {
-        cout << "Saving report to file\n";
+        cout << "Saving report to a physical file...\n";
     }
 };
 
